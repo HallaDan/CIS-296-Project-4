@@ -1,9 +1,12 @@
-Alex Parsons, Dan Hallanger
+Alex Parsons,
+Dan Hallanger
+
 CIS 296: Java Programming
+
 Professor John Baugh
+
 December 10, 2023
 
- 
 Proj4_Client.javat
 Standard JavaFX launcher for the GUI and scene builder document.
 Proj4_ClientUI.fxml - Screenshots
