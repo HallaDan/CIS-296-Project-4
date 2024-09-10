@@ -68,7 +68,7 @@ This project is a JavaFX-based multiplayer Tic-Tac-Toe game that allows two clie
 
 1. **Clone the Repository**: Clone this project to your local machine using Git.
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/HallaDan/CIS-296-Project-4.git
    ```
 2. **Set Up JavaFX**: Ensure JavaFX is properly set up in your environment. Refer to the [official JavaFX setup guide](https://openjfx.io/openjfx-docs/) if needed.
 3. **Run the Server**: Start the `server.java` file. It will wait for two clients to connect.
