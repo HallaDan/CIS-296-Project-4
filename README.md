@@ -1,11 +1,9 @@
 Alex Parsons,
 Dan Hallanger
-
 CIS 296: Java Programming
-
 Professor John Baugh
-
 December 10, 2023
+
 
 Proj4_Client.javat
 
