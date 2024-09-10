@@ -12,12 +12,15 @@ Standard JavaFX launcher for the GUI and scene builder document.
 Proj4_ClientUI.fxml - Screenshots
 
 Clients running and connected to each other
+
 ![Picture1](https://github.com/user-attachments/assets/305384b0-f180-4d2d-8d08-8999887dadb1)
 
 Client that is assigned X wins
+
 ![Picture2](https://github.com/user-attachments/assets/f141d7e8-185d-4153-82a7-ff83ac592d56)
 
 Draw with both clients
+
 ![Picture3](https://github.com/user-attachments/assets/24a48780-85e8-44df-89f9-81e30b471ed3)
  
 Proj4_ClientUIController.java
