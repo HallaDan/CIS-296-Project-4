@@ -7,6 +7,7 @@ December 10, 2023
 Proj4_Client.javat
 Standard JavaFX launcher for the GUI and scene builder document.
 Proj4_ClientUI.fxml - Screenshots
+
 Clients running and connected to each other
 ![Picture1](https://github.com/user-attachments/assets/305384b0-f180-4d2d-8d08-8999887dadb1)
 
